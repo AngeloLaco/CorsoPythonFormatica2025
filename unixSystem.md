@@ -1,5 +1,5 @@
 `GUIDA AI COMANDI UNIX/LINUX PER PROGRAMMATORI
-Corso Python e AI - Prof. Angelo Laco
+Corso Python e AI - Prof. Angelo La Cognata
 
 INDICE
 1. Introduzione al Terminale
