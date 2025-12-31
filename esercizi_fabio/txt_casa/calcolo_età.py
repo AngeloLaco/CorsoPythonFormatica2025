@@ -6,4 +6,3 @@ eta = anno_corrente - anno_nascita
 if compiuti == "no":
     eta -= 1
 print(f"Ricapitoliamo! Sei nato/a a {mese_nascita} del {anno_nascita}, oggi hai {eta} anni")
-1
